@@ -100,7 +100,7 @@ console.log(asibur.greeting)
 #### 💼 [FreelanceNation](https://freelancenation.web.app/)
 > Platform for freelancers to find jobs and clients to hire professionals.
 
-- 🌐 **Live Site**: [freelancenation.web.app](https://freelancenation.web.app/)
+- 🌐 **Live Site**: [freelancenation.web.app](https://react-password-auth.web.app/)
 - 🛠️ **Tech**: MERN Stack, Firebase, Stripe, React Router
 - 🔁 **Features**: Profile Management, Secure Checkout, Reviews
 
