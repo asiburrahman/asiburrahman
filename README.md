@@ -12,10 +12,10 @@
 
 
 ```javascript
-   const Bio = {
-  pronouns: "He" | "his",
-  code: [Javascript, HTML, CSS, React, Node, Expressjs, Firebase...... ],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+ const Bio = {
+ pronouns: "He" | "his",
+ code: [Javascript, HTML, CSS, React, Node, Expressjs, Firebase...... ],
+ architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
  greeting: "Thanks for dropping by, hope you find some of my work interesting."
 }
