@@ -11,7 +11,8 @@
 
 
 
-    const Bio = {
+```javascript
+   const Bio = {
   pronouns: "He" | "his",
   code: [Javascript, HTML, CSS, React, Node, Expressjs, Firebase...... ],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -20,7 +21,8 @@
 }
         
 console.log(Bio.greeting)
-
+}
+```
 ---
 
 ### Portfolio
