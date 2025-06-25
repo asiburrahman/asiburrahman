@@ -9,6 +9,34 @@
 
 ---
 
+
+
+    const Bio = {
+  pronouns: "He" | "his",
+  code: [Javascript, HTML, CSS, React, Node, Expressjs, Firebase...... ],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ greeting: "Thanks for dropping by, hope you find some of my work interesting."
+}
+        
+console.log(Bio.greeting)
+
+---
+
+### Portfolio
+
+> *pending...*
+
+![Asibur's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+
+<details>
+  <summary>Click👆</summary>
+  <pre>
+  🤷‍♂️
+  </pre>
+</details>
+
+
 ### 📌 About Me
 
 - 🎓 B.Sc. in Computer Science & Engineering (CSE) from BUBT  
@@ -21,28 +49,26 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS" />
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+#### 🖥️ Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-</p>
+#### 🧰 Tools & Other
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/-MikroTik-E82C0C?logoColor=white&style=for-the-badge)
 
 ---
 
@@ -56,19 +82,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
- [ <img src="https://github-readme-stats.vercel.app/api?username=asiburcse&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asiburcse&theme=react&hide_border=true" width="48%"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiburcse&layout=compact&theme=react&hide_border=true" width="48%"/>](https://github-readme-stats.vercel.app/api?username=asiburcse&show_icons=true...
-https://github-readme-streak-stats.herokuapp.com?user=asiburcse&...
-https://github-readme-stats.vercel.app/api/top-langs/?username=asiburcse&...
-)
-</p>
-
----
 
 ### 🚀 Featured Projects
 
